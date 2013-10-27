@@ -1,4 +1,4 @@
 stephensh.github.com
 ====================
 
-A profile pages for myself.
+Profile pages for myself.
